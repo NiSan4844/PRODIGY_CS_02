@@ -1,5 +1,5 @@
 
-# Static Black-and-White Image Encryption and Decryption Tool
+# Pixel Manipulation using Image Encryption and Decryption Tool
 
 This project demonstrates a simple image encryption tool using static black-and-white pixel manipulation, built with Python. The tool allows users to encrypt an image by converting it into a black-and-white static image (similar to "noise") and then decrypt it to restore the original image with its colors. The GUI is implemented using the Tkinter library, with support for loading images, encrypting, decrypting, saving, and clearing them.
 
